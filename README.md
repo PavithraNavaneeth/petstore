@@ -8,6 +8,7 @@ These are Rest Assure tests for swagger petstore https://petstore.swagger.io/
 - Make sure you have installed all necessary Java in your system
 - To install the dependency run following command from IDE terminal: mvn clean install -Dmaven.test.skip=true
 - To run the tests run following command from IDE terminal: mvn test
+- Same commands can be run outside the IDE as well. Open command prompt or terminal, get into the project folder and run mvn commands listed above.
 
 ### Notes
 I have created the tests in specific order to run with data accordingly.
